@@ -1,3 +1,5 @@
+### This repository is for the Thesis "A Systematic Evaluation of LLMs on Extracting Structured Data from HTML Tables" and all the scripts inside that thesis are here, ready to run and test.
+
 # Pipeline
 
 This folder contains all scripts for the Wikipedia table extraction and evaluation pipeline.
